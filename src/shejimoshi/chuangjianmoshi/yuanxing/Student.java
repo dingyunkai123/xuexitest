@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.yuanxing;/** * @Title: Student * @Package shejimoshi.chuangjianmoshi.yuanxing * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 20:38 */public class Student {    public String name;    public String getName() {        return name;    }    public void setName(String name) {        this.name = name;    }}

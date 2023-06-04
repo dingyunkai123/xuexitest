@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.gongchang.abstract_factory;/** * @Title: Dessert * @Package shejimoshi.chuangjianmoshi.gongchang.abstract_factory * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 14:32 */public abstract class Dessert {    public abstract void show();}

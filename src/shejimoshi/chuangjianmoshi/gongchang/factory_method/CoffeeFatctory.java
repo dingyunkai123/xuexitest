@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.gongchang.factory_method;/** * @Title: CoffeeFatctory * @Package shejimoshi.chuangjianmoshi.gongchang.factory_method * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 14:11 */public interface CoffeeFatctory {    Coffee createCoffee();}

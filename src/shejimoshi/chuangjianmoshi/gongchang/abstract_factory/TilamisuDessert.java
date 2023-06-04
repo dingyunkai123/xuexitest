@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.gongchang.abstract_factory;/** * @Title: TilamisuDessert * @Package shejimoshi.chuangjianmoshi.gongchang.abstract_factory * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 14:32 */public class TilamisuDessert extends Dessert{    @Override    public void show() {        System.out.println("提拉米苏");    }}

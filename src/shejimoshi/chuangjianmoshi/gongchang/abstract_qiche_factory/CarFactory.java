@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.gongchang.abstract_qiche_factory;/** * @Title: CarFactory * @Package shejimoshi.chuangjianmoshi.gongchang.abstract_qiche_factory * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 14:46 */public interface CarFactory {    YouCar createCar();     XnyCar createXnyCarFactor();}

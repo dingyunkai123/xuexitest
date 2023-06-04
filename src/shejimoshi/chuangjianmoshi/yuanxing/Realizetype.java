@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.yuanxing;/** * @Title: Realizetype * @Package shejimoshi.chuangjianmoshi.yuanxing * @Author: dingyunkai * @Description * @CreateTime: 2023/6/3 20:28 */public class Realizetype implements Cloneable{    @Override    protected Realizetype clone() throws CloneNotSupportedException {        return (Realizetype) super.clone();    }}
