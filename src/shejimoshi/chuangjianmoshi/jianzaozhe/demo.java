@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.jianzaozhe;/** * @Title: demo * @Package shejimoshi.chuangjianmoshi.jianzaozhe * @Author: dingyunkai * @Description * @CreateTime: 2023/6/4 13:22 */public class demo {    public static void main(String[] args) {        Director director = new Director(new MoBaiBuilder());        director.construct();    }}

@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.dailimoshi;/** * @Title: TrainStation * @Package shejimoshi.jiegouxingmoshi.dailimoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/4 14:17 */public class TrainStation implements SellTickets{    @Override    public void sell() {        System.out.println("火车站卖票");    }}

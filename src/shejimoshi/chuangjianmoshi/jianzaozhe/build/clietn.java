@@ -1,0 +1,1 @@
+package shejimoshi.chuangjianmoshi.jianzaozhe.build;/** * @Title: clietn * @Package shejimoshi.chuangjianmoshi.jianzaozhe.build * @Author: dingyunkai * @Description * @CreateTime: 2023/6/4 13:55 */public class clietn {    public static void main(String[] args) {        Phone phone = new Phone.Builder().cpu("aaa").build();        System.out.println(phone);    }}
