@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.dailimoshi.jdkProxy;public interface SellTickets {    public void sell();    public void add();}

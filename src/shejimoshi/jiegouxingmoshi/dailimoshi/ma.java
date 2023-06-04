@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.dailimoshi;/** * @Title: ma * @Package shejimoshi.jiegouxingmoshi.dailimoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/4 14:20 */public class ma {    public static void main(String[] args) {        ProxyPoint proxyPoint = new ProxyPoint();        proxyPoint.sell();    }}
