@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.qiaojiemoshi;/** * @Title: RmvbVideFIle * @Package shejimoshi.jiegouxingmoshi.qiaojiemoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 20:44 */public class RmvbVideFIle implements VideoFile{    @Override    public void decode(String fileName) {        System.out.println("rmvb视频文件" + fileName);    }}

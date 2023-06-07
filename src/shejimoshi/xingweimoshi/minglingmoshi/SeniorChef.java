@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.minglingmoshi;/** * @Title: SeniorChef * @Package shejimoshi.xingweimoshi.minglingmoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/7 20:07 */public class SeniorChef {    public void makeFoot(String name,int num){        System.out.println(num + "份" + name);    }}

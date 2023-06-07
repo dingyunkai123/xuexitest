@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.zhuangshizhe;/** * @Title: chaomian * @Package shejimoshi.jiegouxingmoshi.zhuangshizhe * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 19:40 */public class chaomian extends FastFood{    public chaomian(){        super(20,"炒面");    }    @Override    public float task() {        return getPrice();    }}

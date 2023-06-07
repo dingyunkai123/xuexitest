@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.waiguanmoshi;/** * @Title: Light * @Package shejimoshi.jiegouxingmoshi.waiguanmoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 21:05 */public class Light {    public void on(){        System.out.println("开灯。。");    }    public void off(){        System.out.println("关灯。。。");    }}
