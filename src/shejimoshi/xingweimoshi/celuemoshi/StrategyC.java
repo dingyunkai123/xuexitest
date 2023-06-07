@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.celuemoshi;/** * @Title: StrategyA * @Package shejimoshi.xingweimoshi.celuemoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/6 20:30 */public class StrategyC implements Strategy{    @Override    public void show() {        System.out.println("满俩百减三十");    }}

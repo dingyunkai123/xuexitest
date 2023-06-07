@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.qiaojiemoshi;/** * @Title: main * @Package shejimoshi.jiegouxingmoshi.qiaojiemoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 20:49 */public class demo {    public static void main(String[] args) {        OpratingSystem opratingSystem = new Mac(new AviVideoFile());        opratingSystem.play("111");    }}

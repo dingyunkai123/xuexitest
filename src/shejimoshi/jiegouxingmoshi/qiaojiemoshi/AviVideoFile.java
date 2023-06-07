@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.qiaojiemoshi;/** * @Title: AviVideoFile * @Package shejimoshi.jiegouxingmoshi.qiaojiemoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 20:43 */public class AviVideoFile implements VideoFile{    @Override    public void decode(String fileName) {        System.out.println("avi" + fileName);    }}

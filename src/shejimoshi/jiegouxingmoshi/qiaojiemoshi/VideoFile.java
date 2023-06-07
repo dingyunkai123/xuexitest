@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.qiaojiemoshi;/** * @Title: VideoFile * @Package shejimoshi.jiegouxingmoshi.qiaojiemoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 20:42 */public interface VideoFile {    //解码    public void decode(String fileName);}

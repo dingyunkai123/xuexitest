@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.zhuangshizhe;/** * @Title: chaofan * @Package shejimoshi.jiegouxingmoshi.zhuangshizhe * @Author: dingyunkai * @Description * @CreateTime: 2023/6/5 19:39 */public class chaofan extends FastFood {    public chaofan(){        super(10,"炒饭");    }    @Override    public float task() {        return getPrice();    }}

@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.guanchazhe;import java.util.Objects;/** * @Title: Subject * @Package shejimoshi.xingweimoshi.guanchazhe * @Author: dingyunkai * @Description * @CreateTime: 2023/6/7 21:31 */public interface Subject {    //添加订阅者    void attach(Observer observer);    void delete(Observer observer);    //通知    void notfiy(String messeeage);}

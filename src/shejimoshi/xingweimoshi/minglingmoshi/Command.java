@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.minglingmoshi;public interface Command {    void execute();}

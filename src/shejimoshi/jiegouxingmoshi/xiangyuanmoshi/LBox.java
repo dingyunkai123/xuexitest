@@ -1,0 +1,1 @@
+package shejimoshi.jiegouxingmoshi.xiangyuanmoshi;/** * @Title: IBox * @Package shejimoshi.jiegouxingmoshi.xiangyuanmoshi * @Author: dingyunkai * @Description * @CreateTime: 2023/6/6 20:48 */public class LBox extends AbstractBox{    @Override    public String getShape() {        return "L";    }}

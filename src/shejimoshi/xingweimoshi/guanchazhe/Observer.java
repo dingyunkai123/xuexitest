@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.guanchazhe;public interface Observer {    public void update(String message);}

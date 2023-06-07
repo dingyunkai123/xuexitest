@@ -1,0 +1,1 @@
+package shejimoshi.xingweimoshi.moban;/** * @Title: demo * @Package shejimoshi.xingweimoshi.moban * @Author: dingyunkai * @Description * @CreateTime: 2023/6/6 20:14 */public class demo {    public static void main(String[] args) {        BaoCai baoCai = new BaoCai();        baoCai.cookProcess();    }}
